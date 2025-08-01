@@ -19,7 +19,7 @@ A fully automated bash script to streamline reconnaissance and vulnerability dis
 
 ## 📦 Requirements
 
-Install all tools using the [bugzbunny installer script](https://github.com/elbasry_sec) or manually ensure the following are installed:
+Install all tools using the [bugzbunny installer script](https://github.com/elbasry-sec) or manually ensure the following are installed:
 
 * `subfinder`
 * `assetfinder`
@@ -87,8 +87,8 @@ results/
 ## 👑 Author
 
 > **Elbasry aka BugzBunny 🐰**
-> github.com/elbasry\_sec
-> t.me/elbasy\_sec
+> github.com/elbasry\-sec
+
 
 ---
 
